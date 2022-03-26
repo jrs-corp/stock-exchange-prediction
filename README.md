@@ -1,2 +1,2 @@
-# movie-analysis
-Analysis of the Movie Dataset
+# stock-exchange-prediction
+Predicting Stock Exchange Price
